@@ -13,4 +13,4 @@ https://github.com/thoughtbot/factory_bot/blob/master/GETTING_STARTED.md#associa
 "rspec sidekiq"
 https://github.com/philostler/rspec-sidekiq
 
-Note:- This is for only unit testing.
+Note:- This is only for unit testing.
