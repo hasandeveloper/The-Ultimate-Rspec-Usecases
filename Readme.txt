@@ -10,4 +10,7 @@ https://github.com/thoughtbot/shoulda-matchers
 "factory bot"
 https://github.com/thoughtbot/factory_bot/blob/master/GETTING_STARTED.md#associations
 
+"rspec sidekiq"
+https://github.com/philostler/rspec-sidekiq
+
 Note:- This is for only unit testing.
