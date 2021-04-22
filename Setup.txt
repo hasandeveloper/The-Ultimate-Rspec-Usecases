@@ -1,0 +1,13 @@
+# Add to your Gemfile and bundle it
+
+group :test do
+  gem "factory_bot_rails"
+  gem 'rspec-rails'
+  gem 'shoulda-matchers'
+end
+
+# For setup follow
+
+https://github.com/thoughtbot/shoulda-matchers
+
+https://github.com/thoughtbot/factory_bot/blob/master/GETTING_STARTED.md#associations
