@@ -5,4 +5,7 @@ FactoryGirl.define do
         association :unit
     end
 
-  end
+end
+
+#   belongs_to :workflow
+#   belongs_to :unit
